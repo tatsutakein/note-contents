@@ -54,5 +54,5 @@ Thanks to our wonderful contributors!
 
 ## License
 
-boilerplate is distributed under the terms of the MIT License. See the [license](LICENSE) for more
+note-contents is distributed under the terms of the MIT License. See the [license](LICENSE) for more
 information.
