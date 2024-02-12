@@ -2,9 +2,11 @@
 [![renovate](https://img.shields.io/badge/maintaied%20with-renovate-blue?logo=renovatebot)](https://app.renovatebot.com/dashboard)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tatsutakein/project-boilerplate)
 
-# Project boilerplate
+# note-contents
 
-Template for project creation.
+<img src="docs/images/logo.svg" alt="note">
+
+https://note.com/tatsutakein/
 
 ## Features
 
